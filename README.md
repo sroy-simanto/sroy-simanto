@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sroy-simanto
+- 👋 Hi, I’m [Simanto Roy](https://twitter.com/simanto_sroy)
 - 👀 I’m interested in Software Engneering
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on [Twitter](https://twitter.com/simanto_sroy)
