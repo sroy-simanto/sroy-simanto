@@ -1,8 +1,8 @@
-- 👋 Hi, I’m [Simanto Roy](https://twitter.com/simanto_sroy)
+- 👋 Hi, I’m [Simanto Roy](https://www.instagram.com/simanto_sroy/?hl=en)
 - 👀 I’m interested in Software Engneering
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on [Twitter](https://twitter.com/simanto_sroy)
-- 📫 How to reach me [Twitter](https://twitter.com/simanto_sroy)
+- 💞️ I’m looking to collaborate on [Instagram](https://www.instagram.com/simanto_sroy/?hl=en)
+- 📫 How to reach me [Instagram](https://www.instagram.com/simanto_sroy/?hl=en)
 
 <!---
 sroy-simanto/sroy-simanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
