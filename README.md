@@ -38,7 +38,7 @@
 
 ## 📊 My Github Stats
 
-<div style="display:flex">
+<div style="display:flex; justify-content:space-between">
         <a href="https://github.com/sroy-simanto/github-readme-stats"><img alt="Simanto Roy Github Stats" src="https://github-readme-stats.vercel.app/api?username=sroy-simanto&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
         <a href="https://github.com/sroy-simanto//github-readme-stats"><img alt="Simanto Roy Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sroy-simanto&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </div>
