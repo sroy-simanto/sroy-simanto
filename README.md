@@ -38,12 +38,8 @@
 
 ## 📊 My Github Stats
 
-<p align="center">
 <a href="https://github.com/sroy-simanto/github-readme-stats"><img alt="Simanto Roy Github Stats" src="https://github-readme-stats.vercel.app/api?username=sroy-simanto&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
-<p align="center">
 <a href="https://github.com/sroy-simanto//github-readme-stats"><img alt="Simanto Roy Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sroy-simanto&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
- </p>
 <br/>
 <a href="https://github.com/sroy-simanto/github-readme-activity-graph"><img alt="Simanto Roy Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sroy-simanto&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
